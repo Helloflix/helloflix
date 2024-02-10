@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Helloflix/helloflix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+[![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/helloflix">
+<table>
+  <td>
+   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflix&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+  </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflix&count_private=true&show_icons=true&theme=merko" />
+    </td>
+    <td>
+     <img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflix&theme=merko"/>
+    </td>
+  </tr>
+</table>
+</a>
+
+
